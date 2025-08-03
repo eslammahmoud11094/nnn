@@ -1,0 +1,216 @@
+
+/*--------------------------
+  Variables (تعديل القيم براحتك)
+--------------------------*/
+$logo-height-desktop: 100px !default;  // حجم الشعار على الديسكتوب
+$logo-height-tablet:  70px  !default;  // حجم الشعار على الشاشات ≤992px
+$logo-height-mobile:  50px  !default;  // حجم الشعار على الشاشات ≤576px
+$breakpoint-lg:       992px !default;
+$breakpoint-sm:       576px !default;
+
+/*--------------------------
+    Header Styles  
+--------------------------*/
+.logo-dark {
+  display: none;
+}
+
+.desk-top {
+  @media screen and (max-width: $breakpoint-lg) {
+    display: none !important;
+  }
+}
+
+.header-default {
+  max-width: 100%;
+  border-bottom: 1px solid var(--color-border);
+  background-color: var(--color-darker);
+  color: #fff;
+  font-size: 12px;
+  position: relative;
+  z-index: 99;
+
+  /* Logo Section */
+  .logo {
+    a {
+      display: flex;
+      align-items: center;
+      padding: 0.5rem 0;
+
+      img {
+
+// max-height: 120px !important;
+        // /* التكبير/التصغير السلس */
+        // max-height: clamp($logo-height-mobile, 8vw, $logo-height-desktop) !important;
+
+
+        //         width: 200px !important;
+        // height: 200px !important;
+        // object-fit: cover;
+
+      }
+    }
+  }
+
+  /* Header Right */
+  .header-right {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+
+    .header-btn {
+      margin-left: 25px;
+      @media #{$md-layout} { margin-left: 0; }
+      @media #{$sm-layout} { margin-left: 0; }
+    }
+  }
+
+  /* وضعية Relative */
+  &.header-relative {
+    position: relative;
+  }
+
+  /* أزرار الـ Header */
+  a,
+  button {
+    &.btn-default,
+    &.btn-small {
+      @media #{$sm-layout} {
+        height: 36px;
+        line-height: 35px;
+        padding: 0 10px;
+        font-size: 12px;
+      }
+    }
+  }
+
+  /* Header Transparent */
+  &.header-transparent {
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: auto;
+    background: transparent !important;
+    backdrop-filter: inherit;
+  }
+}
+
+.header-transparent-with-topbar {
+  position: absolute;
+  left: 0;
+  right: 0;
+  width: auto;
+  z-index: 99;
+
+  @media #{$md-layout}, #{$sm-layout} {
+    position: relative;
+  }
+
+  .header-top-bar {
+    background-color: transparent;
+    @media #{$md-layout}, #{$sm-layout} {
+      background-color: var(--color-darker);
+    }
+  }
+
+  .header-default {
+    background-color: transparent;
+    background-image: none;
+    @media #{$md-layout}, #{$sm-layout} {
+      background-color: var(--color-darker);
+    }
+  }
+}
+
+.hamberger-button {
+  background: var(--color-blackest);
+  border: none;
+  color: var(--color-white);
+  width: 40px;
+  height: 40px;
+  font-size: 21px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+}
+
+.header-left-align {
+  .mainmenu-nav {
+    margin-left: 30px;
+  }
+}
+
+.rainbow-header.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dark) !important;
+  width: 100%;
+  height: 80px;
+  // height: 130px;
+  animation: headerSticky .95s ease forwards;
+  z-index: 9;
+
+  @media screen and (max-width:992px) {
+    height: 80px;
+  }
+}
+
+.rbt-fluid-header {
+  .container-wrapper {
+    max-width: 1600px;
+  }
+}
+
+@keyframes headerSticky {
+  0% { transform: translateY(-100%); }
+  100% { transform: translateY(0); }
+}
+
+/* Fallback Media Queries (قيم ثابتة) */
+@media screen and (max-width: $breakpoint-lg) {
+  .header-default .logo a img {
+    max-height: $logo-height-tablet !important;
+  }
+}
+
+@media screen and (max-width: $breakpoint-sm) {
+  .header-default .logo a img {
+    max-height: $logo-height-mobile !important;
+  }
+}
+
+
+.header-default {
+  .logo {
+    /* امنع الفليكس من تقليص الحاوية */
+    // flex: 0 0 auto !important;
+
+    a {
+      // display: flex !important;
+      // align-items: center !important;
+
+      /* ضبط عرض الحاوية مباشرة */
+      // width: 200px !important;
+      // min-width: 200px !important;
+      // flex: 0 0 auto !important;
+      // overflow: visible !important;
+
+      img {
+        /* خلي الصورة تملأ الحاوية بدون تقييد */
+        // width: auto !important;
+        // height: 78px !important;
+        // max-width: none !important;
+        // max-height: none !important;
+        // object-fit: contain !important;
+        // flex-shrink: 0 !important;
+
+width: 100%;
+    object-fit: contain;
+        
+      }
+    }
+  }
+}

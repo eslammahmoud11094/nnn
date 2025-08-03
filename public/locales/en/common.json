@@ -1,0 +1,625 @@
+{
+  "global": {
+    "site_name": "Talently"
+  },
+  "menu": {
+    "home": "Home",
+    "about": "About Us",
+    "whoWeAre": "Who We Are",
+    "ourValues": "Our Mission",
+    "missionVision": "Our Vision",
+    "aboutFounder": "About The Founder",
+    "services": "Our Services",
+    "individualServices": "Individual Services",
+    "organizationalServices": "Organizational Services",
+    "contact": "Get In Touch"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Build a People-First\n Organization",
+        "description": "From strategy to culture, we help you grow through human-centered HR solutions that create real business impact."
+      },
+      {
+        "title": "Shape a Career\n You Truly Love",
+        "description": "Whether you're job hunting or rethinking your next move, we offer expert coaching, CV support, and interview prep."
+      },
+      {
+        "title": "Unlock Your Team’s\n Full Potential",
+        "description": "Strategic HR solutions to build stronger culture, improve engagement, and drive growth."
+      },
+      {
+        "title": "Elevate Your Career\n With Expert Coaching",
+        "description": "Personalized career guidance, CV improvement, and interview preparation — all in one place."
+      },
+      {
+        "title": "Talently",
+        "description": "Building Culutre Fostering talent"
+      }
+    ],
+    "cta": "Get started now"
+  },
+
+  "progress": {
+    "subtitle": "Our Expertise.",
+    "title": "17+ years work Experience",
+    "items": [
+      {
+        "title": "Talent Development",
+        "subtitle": "Designing programs to nurture, grow, and retain high-potential talent."
+      },
+      {
+        "title": "Organizational Culture",
+        "subtitle": "Building purpose-driven, inclusive cultures that drive performance."
+      },
+      {
+        "title": "Leadership Enablement",
+        "subtitle": "Equipping leaders with tools to inspire, coach, and lead effectively."
+      },
+      {
+        "title": "HR Strategy",
+        "subtitle": "Crafting human-centered HR strategies aligned with business growth."
+      }
+    ]
+  },
+
+  "portfolios": {
+    "items": [
+      {
+        "title": "Talent Development Program",
+        "subtitle": "Tailored growth plans for high-potential employees.",
+        "altText": "Talent Development Program"
+      },
+      {
+        "title": "Employee Experience Redesign",
+        "subtitle": "Mapping to improve engagement & retention.",
+        "altText": "Employee Experience Redesign"
+      },
+      {
+        "title": "Leadership Coaching Initiative",
+        "subtitle": "One‑on‑one coaching for emerging leaders.",
+        "altText": "Leadership Coaching Initiative"
+      },
+      {
+        "title": "Strategic HR Planning",
+        "subtitle": "Data‑driven HR strategy & culture building.",
+        "altText": "Strategic HR Planning"
+      }
+    ],
+    "filter": {
+      "buttons": [
+        "All",
+        "Strategy",
+        "People & Culture",
+        "Coaching",
+        "Programs"
+      ],
+      "title": "You can customize everything!",
+      "cta": "Get In Touch"
+    }
+  },
+
+  "services10": {
+    "sectionTitle": {
+      "subtitle": "What we can do for you",
+      "title": "Services provide for you."
+    },
+    "items": [
+      {
+        "title": "Organizational Effectiveness and HR Strategy",
+        "description": "Tailored audits, culture design, and engagement strategies aligned with business goals."
+      },
+      {
+        "title": "Leadership Development",
+        "description": "Empowering leaders through coaching, training, and performance development programs."
+      },
+      {
+        "title": "Employee Experience Design",
+        "description": "Enhancing employee journeys with performance systems, feedback loops, and retention plans."
+      },
+      {
+        "title": "Career Coaching & CV Advisory",
+        "description": "Supporting professionals with career guidance, interview prep, and standout CVs."
+      }
+    ]
+  },
+
+  "values": {
+    "sectionTitle": "Our Values",
+    "items": [
+      {
+        "title": "People First",
+        "desc": "We put people at the heart of everything — from strategy to implementation.",
+        "img": "/assets/images/values/people-first.jpg"
+      },
+      {
+        "title": "Integrity",
+        "desc": "We uphold honesty, transparency, and respect in all our interactions.",
+        "img": "/assets/images/values/integrity.jpg"
+      },
+      {
+        "title": "Excellence",
+        "desc": "We deliver with care, precision, and a commitment to quality.",
+        "img": "/assets/images/values/excellence.jpg"
+      },
+      {
+        "title": "Innovation",
+        "desc": "We constantly seek new ways to solve old problems, creatively and practically.",
+        "img": "/assets/images/values/innovatain.jpg"
+      },
+      {
+        "title": "Collaboration",
+        "desc": "We build partnerships based on trust, shared goals, and open communication.",
+        "img": "/assets/images/values/collaboratain.jpg"
+      }
+    ]
+  },
+
+  "combinedServices": {
+    "title": "What We Offer",
+    "description": "Comprehensive support for organizations and individuals — from strategic consulting to personal career coaching.",
+    "tabs": {
+      "org": {
+        "label": "Organizational Services",
+        "button": "Post a Job",
+        "items": [
+          {
+            "title": "Organizational Effectiveness & HR Strategy",
+            "desc": "Aligning people, processes, and culture with business goals to build future-ready organizations by delivering: * Culture Design - Employee Engagement Strategies - HR Policy Development and HR audits."
+          },
+          {
+            "title": "Recruitment & Talent Acquisition",
+            "desc": "Attracting, assessing, and integrating the right talent to drive performance and growth through: * Talent Sourcing - Candidates shortlisting and employer branding.",
+            "alt": "Recruitment"
+          },
+          {
+            "title": "Employee Experience Design",
+            "desc": "Designing employee experiences that support business objectives and drive retention by:* Mapping the employee journey - Designing onboarding programs - Building performance management systems and developing retention strategies."
+          },
+          {
+            "title": "Leadership Development",
+            "desc": "Building confident, capable leaders who inspire teams and drive growth through: * Targeted leadership training programs- Conducting leadership assessments and feedback sessions and developing succession planning strategies."
+          },
+          {
+            "title": "Wellbeing & Inclusion",
+            "desc": "Fostering healthier, more inclusive workplaces where people feel supported and valued by:* Delivering mental health programs - Designing workplace wellness initiatives - Developing diversity, equity and inclusion (DEI) strategies. "
+          },
+          {
+            "title": "Emiratization & Nationalization",
+            "desc": "Enabling compliance and sustainable national workforce growth by: * Developing Emirati workforce plans - Designing talent attraction programs and creating recognition and retention initiatives."
+          }
+        ]
+      },
+      "ind": {
+        "label": "Individual Services",
+        "button": "Upload CV",
+        "items": [
+          {
+            "title": "Career Coaching & Advisory",
+            "desc": "Empowering professionals to navigate workplace challenges, building stronger relationships, and advance their careers by:* Clarifying career goals and pathways - Improving communication and leadership skills - Developing practical strategies for workplace issues"
+          },
+          {
+            "title": "Interview Preparation",
+            "desc": "Equipping candidates to perform confidently in interviews through:* Mock interview sessions with real-time feedback - Practical guidance on answering questions clearly and authentically - Tips on body language, storytelling, and handling tough questions"
+          },
+          {
+            "title": "CV Review and Enhancement",
+            "desc": "Positioning professionals to stand out to employers by: * Reviewing and refining CVs for clarity and impact - Highlighting strengths and alignment with target roles. - Ensuring CVs are ATS-friendly and tailored for the industry."
+          }
+        ]
+      }
+    }
+  },
+
+  "cta": {
+    "title": "Start your journey with Talently",
+    "subtitle": "From expert coaching to standout CVs — your growth starts here.",
+    "button": "Book a Session"
+  },
+
+  "testimonials": {
+    "title": "Our Clients Feedback.",
+    "subtitle": "Client Feedback",
+    "items": [
+      {
+        "alt": "Corporate Template",
+        "description": "“Proin libero vel lorem dui lupus est aliquet luctus purus justo eget libero sed lorem.„",
+        "title": "Janen Sara",
+        "subtitle": "Sr Product Designer"
+      },
+      {
+        "alt": "Corporate React Template",
+        "description": "“Proin libero vel lorem dui lupus est aliquet luctus purus justo eget libero sed lorem.„",
+        "title": "Afsana Nila",
+        "subtitle": "App Developer"
+      },
+      {
+        "alt": "Corporate React Template",
+        "description": "“Proin libero vel lorem dui lupus est aliquet luctus purus justo eget libero sed lorem.„",
+        "title": "Hasina",
+        "subtitle": "Accounts Manager"
+      },
+      {
+        "alt": "Corporate React Template",
+        "description": "“Proin libero vel lorem dui lupus est aliquet luctus purus justo eget libero sed lorem.„",
+        "title": "Lamia Aktar",
+        "subtitle": "Accounts Manager"
+      },
+      {
+        "alt": "Corporate React Template",
+        "description": "“Proin libero vel lorem dui lupus est aliquet luctus purus justo eget libero sed lorem.„",
+        "title": "Nora Fati",
+        "subtitle": "Accounts Manager"
+      }
+    ]
+  },
+
+  "footer": {
+    "callout": "Looking to build a people-first organization? Let Talently help you create a thriving culture and unlock your team’s full potential.",
+    "ctaBtn": "Get In Touch",
+    "contactTitle": "Let’s Connect",
+    "contactText": "Ready to build a workplace your people will love?",
+    "copyright": "All Rights Reserved",
+    "sections": [
+      {
+        "title": "About",
+        "links": [
+          { "href": "/about", "label": "Who We Are" },
+          { "href": "/about#mission", "label": "Mission" },
+          { "href": "/about#vision", "label": "Vision" },
+          { "href": "/founder#message", "label": "Founder’s Message" }
+        ]
+      },
+      {
+        "title": "Services",
+        "links": [
+          { "href": "/services#services", "label": "Our Services" },
+          { "href": "/services#our_process", "label": "Our Process" },
+          { "href": "/about#values", "label": "Our Values" }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          { "href": "/contact", "label": "Contact Us" },
+          { "href": "#", "label": "Post a Job" },
+          { "href": "#", "label": "Upload CV" },
+          { "href": "#", "label": "Privacy Policy" }
+        ]
+      }
+    ],
+    "bottomLinks": [
+      { "href": "/privacy-policy", "label": "Post a Job" },
+      { "href": "#", "label": "Upload CV" },
+      { "href": "/contact", "label": "Contact Us" }
+    ]
+  },
+
+  "about": {
+    "breadcrumbTitle": "About Us",
+    "breadcrumbType": "About Us",
+
+    "title": "Who We Are",
+    "typerStrings": ["HR.", "Consulting.", "Agency."],
+    "p1": "Talently is a boutique HR consultancy that helps organizations bring out the best in their people and culture.",
+    "p2": " uilding culture, developing talent, and designing innovative cost-effective, human-centered HR solutions that drive sustainable growth and long-term success.",
+    "p3": "We partner with both organizations and individuals who believe in the power of people. Whether you're a company building your culture or a professional shaping your career we're here to help you grow.",
+    "p4": "Our business revolves around: people, culture, growth, engagement, employee experience and a strong belief that business success starts with human potential.",
+    "p5": " ",
+    "moreBtn": "More About Us"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "p": "Our mission is to support organizations in building strong, people-centered workplaces through tailored, cost-effective HR solutions that foster engagement, sustainability, and long-term growth.",
+    "btn": "See how it works"
+  },
+  "vision": {
+    "title": "Our Vision",
+    "p": "To be the preferred HR partner, empowering people-first companies to grow with purpose empathy, innovation, and measurable impact.",
+    "btn": "See how it works"
+  },
+  "lang": "en",
+  "meta": {
+    "home": {
+      "title": "Talently — Elevate Your People, Ignite Your Culture",
+      "description": "Talently is a boutique HR consultancy that helps organizations bring out the best in their people and culture. We specialize in building culture, developing talent, and designing innovative, human-centered HR solutions that drive sustainable growth.",
+      "keywords": [
+        "HR consultancy",
+        "culture transformation",
+        "talent development",
+        "employee engagement",
+        "sustainable growth",
+        "career coaching"
+      ]
+    },
+    "about": {
+      "title": "Talently — About Us",
+      "description": "Talently is a boutique HR consultancy dedicated to building people-first cultures. Learn how we help organizations grow through strategic HR, talent development, and innovation.",
+      "keywords": [
+        "Talently",
+        "About Talently",
+        "HR consultancy",
+        "HR strategy",
+        "employee experience",
+        "people-first culture",
+        "Mais Al Kayal",
+        "organizational growth"
+      ]
+    },
+    "founder": {
+      "title": "Talently — Meet Our Founder",
+      "description": "Mais Al Kayal brings over 17 years of hands on experience in HR Operations & Strategy, Talent Development and Organizational Growth. ـــ She worked closely with businesses to solve real HR challenges, build strong teams and create healthier work environments. Her approach is hands-on practical and rooted in deep belief that real growth starts with people when they feel seen heard and truly supported. ",
+      "ogDescription": "Discover the journey of Mais Al Kayal, Talently’s founder and managing director. Her people-first vision and 17+ years of HR expertise are redefining how companies grow.",
+      "twitterDescription": "Mais Al Kayal shares her journey of building Talently into a purpose-driven HR consultancy rooted in empathy, culture, and impact.",
+      "keywords": [
+        "Talently Founder",
+        "Mais Al Kayal",
+        "HR leadership",
+        "HR consultancy",
+        "organizational culture",
+        "talent development",
+        "human-centered HR",
+        "people-first strategy"
+      ]
+    }
+  },
+  "hero2": {
+    "founderHello": "I'm",
+    "founderName": "Mais Al Kayal",
+    "contactBtn": "Contact Me"
+  },
+
+  "founder": {
+    "about": {
+      "title": "About the Founder",
+      "quote": "Mais Al Kayal brings over 17 years of hands on experience in HR Operations & Strategy, Talent Development and Organizational Growth.",
+      "description": "She worked closely with businesses to solve real HR challenges, build strong teams and create healthier work environments. Her approach is hands-on practical and rooted in deep belief that real growth starts with people when they feel seen heard and truly supported. ",
+      "nameTitle": "Mais Al Kayal – Founder & Managing Director",
+      "location": "Corniche Road. Al Sawari Tower B Abu Dhabi, UAE",
+      "cta": "Explore Our Services"
+    },
+    "skills": {
+      "subtitle": "See my All Skill.",
+      "title": "My Working Skill",
+      "description1": "We provide company and finance service for",
+      "description2": "startups and company business.",
+
+      "skillsList": {
+        "culture": "Culture & Engagement",
+        "talent": "Talent Development",
+        "strategic": "Organizational Effectiveness and HR Strategy",
+        "coaching": "Leadership Coaching",
+        "experience": "Employee Experience Design"
+      }
+    }
+  },
+
+  "services": {
+    "meta": {
+      "title": "Talently — Our Services",
+      "description": "Explore Talently’s full range of HR services for organizations and individuals: from strategic consulting to career coaching and beyond.",
+      "keywords": [
+        "Talently services",
+        "HR consulting",
+        "career coaching",
+        "employee experience",
+        "leadership development",
+        "wellbeing"
+      ],
+      "openGraph": {
+        "title": "Talently — Our Services",
+        "title2": "Our Services",
+        "description": "Discover how Talently empowers companies and professionals with tailored HR solutions: strategic consulting, talent acquisition, coaching and more.",
+        "alt": "Illustration of HR services"
+      },
+      "twitter": {
+        "title": "Talently — Our Services",
+        "description": "From culture audits to mock interviews: see all the organization- and individual-focused HR services Talently offers."
+      },
+
+      "home": {
+        "title": "Talently — Elevate Your People, Ignite Your Culture",
+        "description": "Talently is a boutique HR consultancy that helps organizations bring out the best in their people and culture. We specialize in building culture, developing talent, and designing innovative, human-centered HR solutions that drive sustainable growth.",
+        "keywords": [
+          "HR consultancy",
+          "culture transformation",
+          "talent development",
+          "employee engagement",
+          "sustainable growth",
+          "career coaching"
+        ]
+      }
+    },
+    "categories": {
+      "all": "All",
+      "org": "Organizational Services",
+      "inv": "Individual Services"
+    },
+    "individual": {
+      "career-coaching": {
+        "title": "Career Coaching & Advisory",
+        "desc": " Empowering professionals to navigate workplace challenges, building stronger relationships, and advance their careers by:",
+        "fullDesc": "* Clarifying career goals and pathways - Improving communication and leadership skills - Developing practical strategies for workplace issues",
+        "alt": "Career Coaching"
+      },
+      "interview-preparation": {
+        "title": "Interview Preparation",
+        "desc": "Equipping candidates to perform confidently in interviews through:",
+        "fullDesc": "* Mock interview sessions with real-time feedback - Practical guidance on answering questions clearly and authentically - Tips on body language, storytelling, and handling tough questions",
+        "alt": "Interview Preparation"
+      },
+      "cv-review-enhancement": {
+        "title": "CV Review and Enhancement",
+        "desc": "Positioning professionals to stand out to employers by:",
+        "fullDesc": "* Reviewing and refining CVs for clarity and impact - Highlighting strengths and alignment with target roles. - Ensuring CVs are ATS-friendly and tailored for the industry.",
+        "alt": "CV Review"
+      }
+    },
+    "organizational": {
+      "strategic-hr-consulting": {
+        "title": "Organizational Effectiveness & HR Strategy",
+        "desc": " Aligning people, processes, and culture with business goals to build future-ready organizations by delivering:",
+        "fullDesc": "* Culture Design - Employee Engagement Strategies - HR Policy Development and HR audits.",
+        "alt": "Strategic HR"
+      },
+      "recruitment-talent-acquisition": {
+        "title": "Recruitment & Talent Acquisition",
+        "desc": "Attracting, assessing, and integrating the right talent to drive performance and growth through:",
+        "fullDesc": "* Talent Sourcing - Candidates shortlisting and employer branding.",
+        "alt": "Recruitment"
+      },
+      "employee-experience-design": {
+        "title": "Employee Experience Design",
+        "desc": " Designing employee experiences that support business objectives and drive retention by:",
+        "fullDesc": "* Mapping the employee journey - Designing onboarding programs - Building performance management systems and developing retention strategies. ",
+        "alt": "Experience Design"
+      },
+      "leadership-development": {
+        "title": "Leadership Development",
+        "desc": " Building confident, capable leaders who inspire teams and drive growth through:",
+        "fullDesc": "* Targeted leadership training programs- Conducting leadership assessments and feedback sessions and developing succession planning strategies.",
+        "alt": "Leadership"
+      },
+      "wellbeing-inclusion": {
+        "title": "Wellbeing & Inclusion",
+        "desc": " Fostering healthier, more inclusive workplaces where people feel supported and valued by:",
+        "fullDesc": "* Delivering mental health programs - Designing workplace wellness initiatives - Developing diversity, equity and inclusion (DEI) strategies.",
+        "alt": "Wellbeing"
+      },
+      "emiratization-nationalization": {
+        "title": "Emiratization & Nationalization",
+        "desc": "Enabling compliance and sustainable national workforce growth by:",
+        "fullDesc": "* Developing Emirati workforce plans - Designing talent attraction programs and creating recognition and retention initiatives.",
+        "alt": "Emiratization"
+      }
+    },
+    "cta": "Get In Touch",
+    "sidebarTitle": "Our Services",
+
+    "combinedServices": {
+      "title": "Why organizations and professionals choose Talently;",
+
+      "items": [
+        {
+          "title": "Organizational Effectiveness and HR Strategy",
+          "desc": "HR audits, culture design, engagement strategy, and policy development."
+        },
+        {
+          "title": "Leadership Development",
+          "desc": "Empowering leaders through coaching, mentoring, and performance development programs."
+        },
+        {
+          "title": "Employee Experience Design",
+          "desc": "Improving employee journeys through performance systems, feedback, and retention plans."
+        },
+        {
+          "title": "Career Coaching & Guidance",
+          "desc": "1-on-1 career coaching to overcome challenges and plan your next move."
+        },
+        {
+          "title": "CV & Interview Enhancement",
+          "desc": "Crafting standout CVs and interview training with real-time expert feedback."
+        },
+        {
+          "title": "Emiratization Advisory",
+          "desc": "Helping UAE businesses create effective nationalization strategies in line with regulations."
+        }
+      ]
+    },
+
+    "ourProcess": {
+      "subtitle": "Talently",
+      "title": "Our Process",
+      "desc": "We follow a clear four-step process designed to deliver impact and sustainability.",
+      "steps": [
+        {
+          "title": "1. Discovery",
+          "desc": "We dive deep to understand your needs, goals, culture, and challenges."
+        },
+        {
+          "title": "2. Design",
+          "desc": "We collaborate with you to design tailored, practical strategies and action plans."
+        },
+        {
+          "title": "3. Implementation",
+          "desc": "We execute with precision, incorporating ongoing feedback and thoughtful adjustments."
+        },
+        {
+          "title": "4. Development",
+          "desc": "We follow through with tools and support to ensure long-term, sustainable results."
+        }
+      ]
+    }
+  },
+
+  "contact": {
+    "welcome": "We’d love to hear from you",
+
+    "title": "Talently — Our Services",
+    "description": "Explore Talently’s full range of HR services for organizations and individuals: from strategic consulting to career coaching and beyond.",
+    "keywords": [
+      "Talently services",
+      "HR consulting",
+      "career coaching",
+      "employee experience",
+      "leadership development",
+      "wellbeing"
+    ],
+    "openGraph": {
+      "title": "Talently — Our Services",
+      "title2": "Our Services",
+      "description": "Discover how Talently empowers companies and professionals with tailored HR solutions: strategic consulting, talent acquisition, coaching and more.",
+      "alt": "Illustration of HR services"
+    },
+    "twitter": {
+      "title": "Talently — Our Services",
+      "description": "From culture audits to mock interviews: see all the organization- and individual-focused HR services Talently offers."
+    },
+    "home": {
+      "title": "Talently — Elevate Your People, Ignite Your Culture",
+      "description": "Talently is a boutique HR consultancy that helps organizations bring out the best in their people and culture. We specialize in building culture, developing talent, and designing innovative, human-centered HR solutions that drive sustainable growth.",
+      "keywords": [
+        "HR consultancy",
+        "culture transformation",
+        "talent development",
+        "employee engagement",
+        "sustainable growth",
+        "career coaching"
+      ]
+    },
+    "working": {
+      "title": "Working Hours",
+      "desc": "Monday - Friday 8:00 AM to 5:00 PM"
+    },
+    "email": {
+      "title": "Our Email Address",
+      "desc": "info@talently.com\n www.talentlyme.com"
+    },
+    "location": {
+      "title": "Our Location",
+      "desc": "Abu Dhabi, UAE. Corniche Road.\nAl Sawari Tower B"
+    },
+    "form": {
+      "title": "Contact Form",
+      "subtitle": "Our contact address here.",
+      "name": "Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "message": "Your Message",
+      "send": "Submit Now"
+    }
+  },
+
+  "testimonialsSection": {
+    "sectionTitle": "Founder’s Message",
+    "sectionDescription": "Let’s build workplaces where people thrive, not just survive.",
+    "testimonials": [
+      {
+        "alt": "Mais Al Kayal",
+        "description": "“Over the past 17 years, I’ve had the privilege of working across diverse industries and organizations, from dynamic startups to well-established companies. My focus has always been on creating people-first HR practices that empower both individuals and businesses to grow. This journey, from leading talent initiatives and shaping organizational culture to designing leadership development programs, has reinforced one core belief: real, sustainable change starts with the human experience. I founded Talently with one clear vision: to create people-first strategies that unlock real value — for businesses, and for the individuals behind them. Talently is a reflection of everything I’ve learned through those years. It's built for organizations that want more than compliance, and for professionals who want more than a job. Our approach is personal, human, and deeply aligned with your purpose. Whether you're rethinking your culture or your own career path — we're here to guide the way. ”",
+        "title": "Mais Al Kayal",
+        "subtitle": "Founder & Managing Director, Talently"
+      }
+    ]
+  }
+}

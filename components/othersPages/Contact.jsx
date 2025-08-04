@@ -63,9 +63,7 @@ export default function Contact({ contactT }) {
                             info@talentlyme.com
                           </a>
                         </p>
-                        <p>
-                          <a href="/">www.talentlyme.com</a>
-                        </p>
+              
                       </div>
                     </div>
                   </div>

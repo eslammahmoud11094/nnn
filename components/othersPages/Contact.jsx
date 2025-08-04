@@ -82,17 +82,7 @@ export default function Contact({ contactT }) {
               </div>
             </div>
           </div>
-<div className="row mt--20">
-  <div className="col-lg-12 text-center">
-    <div className="rainbow-address">
-      <h4 className="title">اتصل بنا</h4>
-      <p>
-        <i className="feather-phone" style={{ marginRight: "5px" }} />
-        اتصال: 02 564 5737 | موبايل: 050 511 02 51
-      </p>
-    </div>
-  </div>
-</div>
+
           <div className="row mt--80">
             <div className="col-lg-12 mb--40">
               <div
